@@ -1,1 +1,3 @@
 # hello-world
+
+Just trying to understand how GitHub works ...
